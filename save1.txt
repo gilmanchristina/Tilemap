@@ -1,0 +1,1 @@
+Building(Clone),2|8|0|,0|0|0|;Monster(Clone),3|10|0|,0|0|0|;Monster(Clone),2|11|0|,0|0|0|;

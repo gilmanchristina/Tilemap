@@ -1,0 +1,42 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     1970 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Christina Gilman\Documents\Tilemap\Test_1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Christina Gilman\Documents\Tilemap\Test_1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Christina Gilman\Documents\Tilemap\Test_1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Christina Gilman\Documents\Tilemap\Test_1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Christina Gilman\Documents\Tilemap\Test_1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Christina Gilman\Documents\Tilemap\Test_1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Christina Gilman\Documents\Tilemap\Test_1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Christina Gilman\Documents\Tilemap\Test_1_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.734705 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 246.
+Total: 0.592463 ms (FindLiveObjects: 0.011803 ms CreateObjectMapping: 0.008380 ms MarkObjects: 0.140730 ms  DeleteObjects: 0.012222 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at Save.LoadGame (System.String savename) [0x00000] in <filename unknown>:0 
+  at LoadMap.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Ready For Entry
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 2.789111 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 172.
+Total: 1.009346 ms (FindLiveObjects: 0.013060 ms CreateObjectMapping: 0.015993 ms MarkObjects: 0.313028 ms  DeleteObjects: 0.133746 ms)
+
